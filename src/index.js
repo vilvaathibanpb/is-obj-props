@@ -1,4 +1,4 @@
-export default (isObjProps = (obj, propsArray) => {
+const isObjProps = (obj, propsArray) => {
   if (!obj) {
     return null;
   }
@@ -14,6 +14,7 @@ export default (isObjProps = (obj, propsArray) => {
       return null;
     }
   }
-
   return objCopy;
-});
+};
+
+export default isObjProps;

@@ -1,6 +1,6 @@
 {
   "name": "is-obj-props",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A small npm package to check if an object have certain properties , including nested properties",
   "main": "src/index.js",
   "scripts": {
