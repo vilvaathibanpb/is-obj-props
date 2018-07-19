@@ -8,7 +8,7 @@ A small, yet very useful npm package, which is used to check if an object posses
 ### Installation
 
 ```sh
-$ npm i npm i is-obj-props
+$ npm i is-obj-props
 ```
 
 ### How to Use
