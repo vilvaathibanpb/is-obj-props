@@ -35,7 +35,7 @@ isObjProps is a function which takes 2 arguements:
   - Arguement 1 - Type: Object - The Object to be tested (testObj in this case)
   - Arguement 2 - Type: Array - Array of Property names. The length of the array denotes the depth of the property in nested object.
     
-##### The examples will make you understand better 
+##### The examples will make you understand better
 
 ##
 
